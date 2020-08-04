@@ -1,0 +1,28 @@
+    body {
+        background-color: white;
+    }
+    
+    h1 {
+        color: black;
+        font-size: 80px;
+    }
+    
+    .title {
+        color: black;
+        font-size: 50px;
+    }
+    
+    .detail {
+        color: black;
+        font-size: 30px;
+    }
+    
+    .date {
+        color: black;
+        font-size: 20px;
+    }
+    
+    .wrtn {
+        color: black;
+        font-size: 20px;
+    }
